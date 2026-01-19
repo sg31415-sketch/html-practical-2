@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Friends</title>
+</head>
+<body>
+
+    <h1>My Friends</h1>
+
+    <ul>
+        <li>Alice</li>
+        <li>Bob</li>
+        <li>Charlie</li>
+        <li>David</li>
+    </ul>
+
+</body>
+</html>
